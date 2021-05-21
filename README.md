@@ -1,1 +1,3 @@
 # SegmaTest
+
+Initial test
